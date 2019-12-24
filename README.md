@@ -18,7 +18,7 @@ The confusion matrix below shows that our model predicts 93 correct and 7 wrong 
 
 ![Confusion Matrix kNN](https://user-images.githubusercontent.com/14214659/71401283-0b6af280-2632-11ea-9c5f-35aa96fb6209.png)
 
-The data visualization of the training set and test set is given below. As k nearest neighbors is non-linear classifier, the graph is non-linear (curve). The green dots shows the people buying the car whereas red dots shows the people not buying the car. The green dots on the green region shows the true positive  whereas the red dots on the red region shows the true negative. The wrongly classified are the green dots in the red region (false positive) and the red dots in the green region (false negative).
+The data visualization of the training set and test set is given below. As k nearest neighbors is non-linear classifier, the graph is non-linear (curve). The green dots shows the people buying the car whereas red dots shows the people not buying the car. The green dots on the green region shows the true positive  whereas the red dots on the red region shows the true negative. The wrongly classified are the green dots in the red region (false negative) and the red dots in the green region (false positive).
 
 ![knn (training set)](https://user-images.githubusercontent.com/14214659/71401686-41f53d00-2633-11ea-9f95-2bc98092e0fa.png)
 
